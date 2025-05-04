@@ -1,0 +1,32 @@
+/* ID selector */
+#main-title {
+    color: darkblue;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+ }
+  
+/* Class selector */
+.intro {
+    font-size: 18px;
+    color: #333;
+    font-family: 'Georgia', serif;
+    margin: 10px 0;
+}
+  
+/* Element selector */
+div {
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid #000;
+    background-color: #f2f2f2;
+}
+  
+/* Image styling */
+.styled-image {
+    width: 300px;
+    height: auto;
+    border: 3px solid #555;
+    display: block;
+    margin: 20px auto;
+}
+  
